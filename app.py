@@ -33,7 +33,7 @@ if selected=="Home":
     st.sidebar.image("https://i.ibb.co/RkVyKtkc/1-nwwkyz1wpa-RZg-Ag-Bg3h41-Q.jpg", use_container_width=True)
     st.sidebar.markdown("## About the Model")
     st.sidebar.info("This AI model predicts whether a patient has diabetes based on medical data.")
-
+    st.sidebar.info("Built by Kailash Sriram")
 # Input Fields with Columns for Better Layout
     col1, col2 = st.columns(2)
     with col1:
