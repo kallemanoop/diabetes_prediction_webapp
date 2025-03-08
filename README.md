@@ -13,14 +13,18 @@ A web application built using Streamlit that predicts whether a person has diabe
 <h3>Installation</h3>
 
 1. Clone the repository:
-    git clone https://github.com/kallemanoop/diabetes_prediction_webapp.git
-    cd diabetes_prediction_webapp
+    <ul>
+  <li>git clone https://github.com/kallemanoop/diabetes_prediction_webapp.git</li>
+  <li>cd diabetes_prediction_webapp</li>
+    </ul>   
+    
+    
 
 2. Install dependencies:
-    pip install -r requirements.txt
+    <ul><li>pip install -r requirements.txt</li></ul>
 
 3. Run the application:
-    streamlit run app.py
+    <ul><li>streamlit run app.py</li></ul>
 
 <h3>Deployment</h3>
 The app can be deployed using Streamlit Cloud, Render, or any cloud service supporting Python applications.
