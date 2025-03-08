@@ -4,6 +4,7 @@ A web application built using Streamlit that predicts whether a person has diabe
 </body>
 
 <h3>Features</h3>
+
 1. Upload a CSV file and train a machine learning model
 2. Predict diabetes based on user input
 3. Display key evaluation metrics
